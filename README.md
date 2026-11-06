@@ -18,7 +18,7 @@ cd superagent-leeai
 安装测试依赖：
 
 ```bash
-python -m pip install pytest
+python -m pip install pytest==7.4.4
 ```
 
 在仓库根目录运行测试：

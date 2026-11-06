@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""统计文本文件的行数、词数和字符数。"""
+"""统计文本文件的行数、词数和字符数。
+
+用法：python tools/wordcount.py <文件路径>
+"""
 
 from __future__ import annotations
 
