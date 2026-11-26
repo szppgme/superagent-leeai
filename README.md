@@ -26,3 +26,7 @@ python -m pip install pytest==7.4.4
 ```bash
 python -m pytest
 ```
+
+## 用法
+
+这是一个用于测试 agent 端到端流程的示例仓库。
