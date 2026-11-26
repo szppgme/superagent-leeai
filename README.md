@@ -4,6 +4,8 @@ superagent-leeai 是一个用于试验和演示 superagent 智能体工作流的
 
 ## 用法
 
+这是一个用于测试 agent 端到端流程的示例仓库。
+
 克隆仓库到本地：
 
 ```bash
@@ -26,7 +28,3 @@ python -m pip install pytest==7.4.4
 ```bash
 python -m pytest
 ```
-
-## 用法
-
-这是一个用于测试 agent 端到端流程的示例仓库。
